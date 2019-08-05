@@ -16,7 +16,7 @@ Se define el error relativo como
 Abajo se presenta como varia el error relativo con un aumento de radio del cono
 
 
-Output de la consola
+Output de la consola:
 
     Volumen para f32: 1.0472 ; Volumen para f64: 1.0471975512
     Error: 2.78275344881e-08
