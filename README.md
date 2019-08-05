@@ -15,6 +15,8 @@ Se define el error relativo como
 
 Abajo se presenta como varia el error relativo con un aumento de radio del cono
 
+<img width="594" alt=" loss-of-significance" src="https://user-images.githubusercontent.com/53713953/62447538-9dca3280-b733-11e9-8b28-9333751f2ee7.png">
+
 
 Output de la consola:
 
